@@ -8,10 +8,10 @@ Mappings:
 
   RegionMap:
     # Sweden
-    eu-north-1:
-      Locale: sv_se
-      Currency: SEK
-      SkuID: 5438798100 # Use 5394903900 to test with RTX 2060 SUPER
+    us-east-1:
+      Locale: en-us
+      Currency: USD
+      SkuID: 5394903900 # 5438798100 # Use 5394903900 to test with RTX 2060 SUPER
 
 Resources:
 
